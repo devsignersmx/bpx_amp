@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "BPX API",
+    "description": "",
+    "version": "e1z5v3gm",
+    "id": "cl1bd2gxz133335201s6g27txxo1",
+    "url": "https://app.amplication.com/cl1bd2gxz133335201s6g27txxo1",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1bd2gxz133335201s6g27txxo1",
+      "authProvider": "Jwt"
+    }
+  }
+}
